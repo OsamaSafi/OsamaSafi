@@ -13,8 +13,8 @@ Welcome to my GitHub profile! I'm a Computer Engineer and Full-Stack Developer p
 ## 🔭 Projects
 
 ### 🌐 Freelance Projects
-* **[mubadala Platform](https://github.com/IsmailMusa-clo/mubadala-api)**: A React & Laravel-based web app for trading products. Integrated Pusher for real-time chat/notifications, Spatie for RBAC, and built a secure exchange system to address local economic challenges. `Jul 2025 – Aug 2025`
-* **[Tasker Mobile Application](https://github.com/codflex8/kafu-api)**: A mobile marketplace connecting task owners with providers. Developed scalable RESTful APIs via Laravel, featuring bidding, invoice payments, real-time chat, and Firebase (FCM) push notifications. `Apr 2025 – Aug 2025`
+* **[mubadala Platform]**: A React & Laravel-based web app for trading products. Integrated Pusher for real-time chat/notifications, Spatie for RBAC, and built a secure exchange system to address local economic challenges. `Jul 2025 – Aug 2025`
+* **[Tasker Mobile Application]**: A mobile marketplace connecting task owners with providers. Developed scalable RESTful APIs via Laravel, featuring bidding, invoice payments, real-time chat, and Firebase (FCM) push notifications. `Apr 2025 – Aug 2025`
 * **[Google Classroom Clone](https://github.com/OsamaSafi/ClassroomClone)**: A full-featured replica of the Google Classroom platform designed for academic management. Developed core modules for user roles (teachers/students), course creation, assignments management, grading systems, and submission workflows, with enhanced custom features.
 
 ### 🐍 Django & Python Projects
