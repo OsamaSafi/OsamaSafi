@@ -59,12 +59,8 @@ Welcome to my GitHub profile! I'm a Computer Engineer and Full-Stack Developer p
 * DevOps Fundamentals
 
 ## 💬 Ask Me About
-* Django Development
-* Laravel Development
-* REST APIs
-* Database Design
-* Web Development
-* Software Engineering Fundamentals
+* Web Development (HTML, CSS, JavaScript, JQuery ,Bootstrap, Taillwind)
+* Backend Development (PHP, Laravel, Python, Django)
 
 ## 📫 Connect With Me
 * Email: [mr.osamasafi@gmail.com](mailto:mr.osamasafi@gmail.com)
